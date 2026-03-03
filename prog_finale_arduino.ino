@@ -7,8 +7,8 @@
 
 
 // ====== WIFI =======
-char ssid[] = "totoma";
-char pass[] = "azertyuiop";
+char ssid[] = "XXXX";
+char pass[] = "XXXXXXXXX";
 
 
 // ===== CAPTEUR SHT20 ========
