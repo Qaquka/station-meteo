@@ -30,7 +30,7 @@ float Rainfall_1h = 0.0;  // pluie sur 1h
 // ===== ENVOI RASPBERRY =======
 const char server[] = "192.168.137.175"; // IP Raspberry
 const int port = 8080;                   // HTTP
-String apiKey = "c473565ff9f8e76a7b5a419f31ee7a0b";
+String apiKey = "XXXXXXXX";
 
 
 WiFiClient client;
