@@ -6,7 +6,7 @@ header("Pragma: no-cache");
 // ===================== CONFIG =====================
 $host = "localhost";
 $user = "station";
-$password = "Meteo_2026!Pi";     // <-- Mets ton vrai mot de passe
+$password = "XXXX";     // <-- Mets ton vrai mot de passe
 $dbname = "station_meteo";
 $preferredTables = ["meteo", "mesures"];
 
