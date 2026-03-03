@@ -2,12 +2,12 @@
 // ===== CONFIG DB =====
 $host = "localhost";
 $user = "station";
-$password = "Meteo_2026!Pi";
+$password = "XXXXXXX";
 $dbname = "station_meteo";
 $table = "meteo";
 
 // ===== Sécurité simple (clé API) =====
-$API_KEY = "c473565ff9f8e76a7b5a419f31ee7a0b";
+$API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
 $key = $_REQUEST["key"] ?? "";
 if ($key !== $API_KEY) {
